@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Yes button triggers confetti and music
     yesButton.addEventListener('click', function () {
-        alert('Yay! Can’t wait for our date! ❤️');
+        alert('Yay! Can’t wait for our date!! ❤️');
         confetti();
         document.getElementById("background-music").play();
     });
